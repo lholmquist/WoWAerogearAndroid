@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AeroGear WoW</string>
+    <string name="edit_message">Enter A Message</string>
+    <string name="menu_settings">Settings</string>
+    <string name="realms">Realms</string>
+</resources>
